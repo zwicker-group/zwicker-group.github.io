@@ -1,0 +1,3 @@
+[submodule "crossover-interference-length"]
+	path = crossover-interference-length
+	url = https://github.com/zwicker-group/crossover-interference-length
